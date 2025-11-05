@@ -1,0 +1,9 @@
+
+
+create JSON collection table CUSTOMER_DETAILS_J;
+Insert into CUSTOMER_DETAILS_J (DATA) values ('{"_id":1001,"name":"crsk","phone":12345678,"Address":{"street":"200 Sporting Green","city":"chennai","state":"SNG1","zipCode":"600061","country":"SNG"},"card":"1234-5678-9012","lat":1.3421,"lng":103.8851}');
+Insert into CUSTOMER_DETAILS_J (DATA) values ('{"_id":1002,"name":"Sulo","phone":98765432,"Address":{"street":"200 Sporting Green","city":"bangalore","state":"SNG2","zipCode":"600062","country":"SNG"},"card":"9876-5432-1987","lat":1.3422,"lng":103.8852}');
+Insert into CUSTOMER_DETAILS_J (DATA) values ('{"_id":1003,"name":"nalini","phone":96385274,"Address":{"street":"200 Sporting Green","city":"bangalore","state":"SNG3","zipCode":"600063","country":"SNG"},"card":"9638-5274-1258","lat":1.3423,"lng":103.8853}');
+Insert into CUSTOMER_DETAILS_J (DATA) values ('{"_id":1004,"name":"arpit","phone":96325875,"Address":{"street":"200 Sporting Green","city":"bangalore","state":"SNG4","zipCode":"600064","country":"SNG"},"card":"1472-5896-3258","lat":1.3424,"lng":103.8854}');
+Insert into CUSTOMER_DETAILS_J (DATA) values ('{"_id":1010,"name":"Name-101","phone":101101567,"Address":{"street":"1010 Sporting Green-1","state":"SNG1","zipCode":"601010","country":"SNG"},"card":"1234-5678-1010","lat":1.3421,"lng":103.8851}');
+Insert into CUSTOMER_DETAILS_J (DATA) values ('{"_id":1009,"name":"Oracle-9","phone":12345678,"Address":{"street":"200 Sporting Green","city":"chennai","state":"SNG1","zipCode":"600061","country":"SNG"},"card":"1234-5678-9012","lat":1.3421,"lng":103.8851}');
